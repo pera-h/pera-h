@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Henrique
 
-<!--
-**pera-h/pera-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student @ UFSC** • **Web3 builder** • **Distributed Systems & ML enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m into (as a developer)
+
+- **Web3:** Ethereum, Solidity, DAO tooling
+- **Data/ML:** Time-series forecasting, physics-informed models, scientific Python
+  
+---
+
+## Web3 goals
+
+- Build useful on-chain and hybrid apps.
+- Keep a security-first mindset in development.
+- Learn continuously and refine my workflow.
+
+---
+
+## 🔧 Tech stack
+
+**Languages:** Solidity, Python, C++, JavaScript  
+**Infra & Tooling:** Node.js, Docker, GitHub Actions, Linux  
+**Data/ML:** PyTorch, TensorFlow/Keras, NumPy, pandas, xarray
+
+
